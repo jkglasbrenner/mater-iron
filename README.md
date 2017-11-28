@@ -1,5 +1,11 @@
 # Material Iron
 
+Copyright (c) 2017 DataMaterials Group.
+
+## Overview
+
+The following is a collection of information and pieces of analysis regarding the condensed matter phase of elemental iron.
+
 ## License
 
 [![Creative Commons License][cc-by-sa-logo]][license]
