@@ -1,4 +1,4 @@
-# Material Iron
+# Iron (condensed matter)
 
 Copyright (c) 2017 DataMaterials Group.
 
